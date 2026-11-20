@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" alt="spunwave" width="100%"></p>
+<p align="center"><a href="https://spunwave.com"><img src="banner.png" alt="spunwave, spunwave.com" width="100%"></a></p>
 
 **spunwave builds tools, starting with the lab bench.** An independent organization; not everything we build will be about electronics.
 
