@@ -22,4 +22,4 @@ The myDAQ instruments in your browser, nothing to install.<br>
 - **Alex Uzun** · [alex@spunwave.com](mailto:alex@spunwave.com) · [ItsJupiter21](https://github.com/ItsJupiter21)
 - **Jean-Gabriel David** · [jg@spunwave.com](mailto:jg@spunwave.com)
 
-Write to all three of us: [contact@spunwave.com](mailto:contact@spunwave.com)
+Write to us: [contact@spunwave.com](mailto:contact@spunwave.com)
