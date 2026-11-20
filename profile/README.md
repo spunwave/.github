@@ -1,6 +1,6 @@
 <p align="center"><img src="banner.png" alt="spunwave" width="100%"></p>
 
-**spunwave is Martin Dolez, Alex Uzun and Jean-Gabriel David**, building our projects together. Not all of them will be about electronics.
+**spunwave builds tools, starting with the lab bench.** An independent organization; not everything we build will be about electronics.
 
 ### mybench
 
