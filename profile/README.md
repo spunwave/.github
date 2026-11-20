@@ -1,6 +1,6 @@
 <p align="center"><img src="banner.png" alt="spunwave" width="100%"></p>
 
-**We made the NI myDAQ work without NI's software.** spunwave is Martin Dolez, Alex Uzun and Jean-Gabriel David.
+**spunwave is Martin Dolez, Alex Uzun and Jean-Gabriel David**, building our projects together. Not all of them will be about electronics.
 
 ### mybench
 
